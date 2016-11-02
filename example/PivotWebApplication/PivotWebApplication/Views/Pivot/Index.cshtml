@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<!-- Flexmonster -->
+<script src="https://s3.amazonaws.com/flexmonster/2.3/flexmonster.js"></script>
+
+@Html.Flexmonster("pivot").Init(new Flexmonster.Mvc.Params()
+{
+    componentFolder = "https://s3.amazonaws.com/flexmonster/2.3/",
+    licenseKey = "Z77A-XAEI3Y-304773-321502",
+    toolbar = true,
+    report = "https://s3.amazonaws.com/flexmonster/2.3/reports/report.json"
+})
+
