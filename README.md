@@ -1,4 +1,6 @@
 # Flexmonster Pivot Table & Charts integration with ASP.NET
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
+Website: www.flexmonster.com
 
 ### :warning: Note: integration with ASP.NET is outdated and may not work with newer versions of Flexmonster. We recommend using [Flexmonster integrations with other frameworks](https://www.flexmonster.com/doc/integration/). 
 
